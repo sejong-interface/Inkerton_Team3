@@ -57,3 +57,6 @@ pip install django
 -   17학번 [이경은](https://github.com/2kyung19) 바이오산업자원공학과
 -   17학번 [이동엽](https://github.com/MovedSide) 컴퓨터공학과
 -   17학번 오경식 지능기전공학부
+
+## Screenshot
+![img](./screenshot/2019-08-22.png)
