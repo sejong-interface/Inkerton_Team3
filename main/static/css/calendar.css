@@ -1,0 +1,84 @@
+td, table, th{
+    border: none !important;
+    font-family: "나눔고딕";
+}
+
+th{
+    font-weight: 100;
+}
+
+.fc-sun, .fc-holiday{
+    color: #F00 !important;
+}
+
+.fc-sat{
+    color: #00F !important;
+}
+
+.bachelorSchedule{
+    background-color: #777 !important;
+    color: #FFF;
+}
+
+.clubSchedule{
+    background-color: #FFB287 !important;
+    color: #FFF;
+}
+
+.guideContents{
+    margin: 0px;
+    padding: 0px;
+    font-size: 15px;
+    width: 100%;
+    height: 17.5px;
+    text-align: center;
+    font-family: "나눔고딕";
+}
+
+.fc-day-top{
+    padding: 0px;
+    font-size: 10px;
+}
+
+.fc-day:hover{
+    background-color: #EEE;
+}
+
+.fc-day > div{
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    top: 0px;
+    display: inline-block;
+    height: 14px;
+    text-align: center;
+    font-size: 11px;
+    transition: 300ms;
+}
+
+#calendar{
+    position: relative;
+    width: 600px;
+    height: 600px;
+    left: calc(50% - 300px);
+}
+
+#calendarTitle{
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    height: 35px;
+    margin-bottom: 30px;
+    padding: 0px;
+    font-family: "나눔고딕";
+}
+
+#guideBox{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 80px;
+    height: 35px;
+    margin: 0px;
+    padding: 0px;
+}
